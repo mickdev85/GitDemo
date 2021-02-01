@@ -1,0 +1,14 @@
+2021-02-01 11:05:25,244 :INFO : test_LogoDisplayed : Logo is displayed as expected
+2021-02-01 11:05:42,748 :INFO : test_CheckoutListMatch : ['Carrot - 1 Kg', 'Cauliflower - 1 Kg']
+2021-02-01 11:06:57,598 :INFO : test_LogoDisplayed : Logo is displayed as expected
+2021-02-01 11:07:14,512 :INFO : test_CheckoutListMatch : ['Carrot - 1 Kg', 'Cauliflower - 1 Kg']
+2021-02-01 11:08:54,897 :INFO : test_LogoDisplayed : Logo is displayed as expected
+2021-02-01 11:09:11,925 :INFO : test_CheckoutListMatch : ['Carrot - 1 Kg', 'Cauliflower - 1 Kg']
+2021-02-01 11:11:03,854 :INFO : test_LogoDisplayed : Logo is displayed as expected
+2021-02-01 11:11:20,883 :INFO : test_CheckoutListMatch : ['Carrot - 1 Kg', 'Cauliflower - 1 Kg']
+2021-02-01 12:41:05,738 :INFO : test_LogoDisplayed : Logo is displayed as expected
+2021-02-01 12:41:22,644 :INFO : test_CheckoutListMatch : ['Carrot - 1 Kg', 'Cauliflower - 1 Kg']
+2021-02-01 12:57:59,950 :INFO : test_LogoDisplayed : Logo is displayed as expected
+2021-02-01 12:58:16,848 :INFO : test_CheckoutListMatch : ['Carrot - 1 Kg', 'Cauliflower - 1 Kg']
+2021-02-01 13:15:23,769 :INFO : test_LogoDisplayed : Logo is displayed as expected
+2021-02-01 13:15:40,646 :INFO : test_CheckoutListMatch : ['Carrot - 1 Kg', 'Cauliflower - 1 Kg']

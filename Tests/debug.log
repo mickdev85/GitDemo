@@ -1,0 +1,2 @@
+[0129/090635.007:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\mickd\AppData\Local\Temp\scoped_dir39208_520500538\Crashpad\reports\7e5a234e-8f2a-493a-8236-4d6f9de80758.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0129/103137.334:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\mickd\AppData\Local\Temp\scoped_dir38744_1864632053\Crashpad\reports\59d4b9ab-6d02-40b6-8af5-30c55b21bd8b.dmp: The process cannot access the file because it is being used by another process. (0x20)
